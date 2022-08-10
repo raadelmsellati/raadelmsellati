@@ -22,13 +22,17 @@ while(alive)
    repeat();
 }
 ```
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raadelmsellati&label=Profile%20views&color=02a7ed&style=flat" alt="raadelmsellati" /> </p>
+
+<h1 align="center">Hi 👋, I'm Raad</h1>
+<h3 align="center">A passionate CS student 👨‍💻 studying at PSU (Portland State University) </h3>
 
 - 🔭 I’m currently working on **Developing an Android app**
 
 - 🌱 I’m currently learning **Front-End and Databases**
+
+- 🤝 I’m looking for help with **Open-Source Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
