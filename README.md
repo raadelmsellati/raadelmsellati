@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi Everyone!S &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
-
 
 <p align="center">
   <img src="terminal.gif"/>
