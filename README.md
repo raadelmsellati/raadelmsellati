@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone! &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<img src="terminal.gif" align="left"/>
+<img src="terminal.gif"/>
 
 ```yaml
 while(alive) 
