@@ -8,7 +8,10 @@
   <img src="terminal.gif"/>
 </p>
 
-[![visits](#https://github-visit-counter.herokuapp.com/{raadelmsellati}/{repo}/visits.svg)](#)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/raadelmsellati/count.svg" />
+</p>
 
 ```yaml
 while(alive) 
