@@ -25,17 +25,16 @@ while(alive)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raadelmsellati&label=Profile%20views&color=02a7ed&style=flat" alt="raadelmsellati" /> </p>
 
-<h1 align="center">Hi 👋, I'm Raad</h1>
 <h3 align="center">A passionate CS student 👨‍💻 studying at PSU (Portland State University) </h3>
 
-- 🔭 I’m currently working on **Developing an Android app**
+- 🔭 I’m currently working on **Developing a Libyan/Global recepies android app**
 
 - 🌱 I’m currently learning **Front-End and Databases**
 
 - 🤝 I’m looking for help with **Open-Source Projects**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/raad_elm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raad_elm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raad elmsellati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raad elmsellati" height="30" width="40" /></a>
 <a href="https://fb.com/raad elmsellati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raad elmsellati" height="30" width="40" /></a>
