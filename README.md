@@ -25,7 +25,7 @@ while(alive)
 
 
 
-<h3 align="center">A passionate CS student 👨‍💻 studying at PSU (Portland State University) </h3>
+<h3 align="center">A passionate CS student 👨‍💻 at PSU (Portland State University) </h3>
 
 - 🔭 I’m currently working on **Developing a Libyan/Global recepies android app**
 
