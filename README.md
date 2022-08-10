@@ -8,7 +8,7 @@
   <img src="terminal.gif"/>
 </p>
 
-[![visits](https://github-visit-counter.herokuapp.com/{raadelmsellati}/{repo}/visits.svg)](#)
+[![visits](#https://github-visit-counter.herokuapp.com/{raadelmsellati}/{repo}/visits.svg)](#)
 
 ```yaml
 while(alive) 
