@@ -8,6 +8,8 @@
   <img src="terminal.gif"/>
 </p>
 
+[![visits](https://github-visit-counter.herokuapp.com/{username}/{repo}/visits.svg)](#)
+
 ```yaml
 while(alive) 
 {
