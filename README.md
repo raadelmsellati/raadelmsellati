@@ -2,8 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone! &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+
 ```yaml
-S O C I A L  M E D I A
+while(alive) 
+{
+   eat();
+   sleep();
+   code();
+   repeat();
+}
 ```
 <h3 align="center">A passionate frontend developer from India</h3>
 
