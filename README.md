@@ -31,7 +31,7 @@ while(alive)
 
 - 🌱 I’m currently learning **Front-End and Databases**
 
-- 🤝 I’m looking for help with **Open-Source Projects**
+- 🤝 I’m looking to help with **Open-Source Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
